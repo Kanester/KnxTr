@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /
+Disallow: 
 
-Sitemap: https://kanester.github.io/portfolio/sitemap.xml
+Sitemap: https://kanester.github.io/KnxTr/sitemap.xml
