@@ -1,0 +1,1 @@
+import{t as a,a as e}from"../chunks/CgiK6atR.js";import"../chunks/BOSeEeYZ.js";var r=a("<h1>My deepest apology but this area is still under construction. Thank you for visiting.</h1>");function p(t){var o=r();e(t,o)}export{p as component};
